@@ -1,7 +1,11 @@
 package factorial;
 
 import java.util.Scanner;
-
+/*
+ * Clase que calcula el factorial de un numero.
+ * @autor halle
+ * 
+ */
 public class NumeroFactorial {
 
 	public static void main(String[] args) {
